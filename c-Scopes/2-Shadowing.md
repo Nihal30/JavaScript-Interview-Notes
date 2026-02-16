@@ -42,8 +42,8 @@ function func() {
   let b = "Joy";
 
   if (true) {
-    let a = "Piyush"; // Legal Shadowing
-    var b = "Piyush"; // Illegal Shadowing
+    let a = "Nihal"; // Legal Shadowing
+    var b = "Nihal"; // Illegal Shadowing
     console.log(a); // It will print 'Piyush'
     console.log(b); // It will print error
   }
