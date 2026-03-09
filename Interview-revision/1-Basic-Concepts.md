@@ -1725,3 +1725,5 @@ To determine the type of a variable in JavaScript, you use typeof followed by th
 
 
 
+
+
