@@ -85,3 +85,11 @@ A comprehensive collection of JavaScript questions covering basics to advanced p
 - [ ] 8. What are cookies?
 - [ ] 9. What is CORS?
 - [ ] 10. What is the same-origin policy?
+
+## 🏗️ Memory & Internals
+- [ ] 1. How does the **V8 Garbage Collector** work (Mark-and-Sweep)?
+- [ ] 2. What are **Memory Leaks** and how do you find them using Chrome DevTools?
+- [ ] 3. What is the difference between **Stack** and **Heap** memory?
+- [ ] 4. What are **WeakMap** and **WeakSet**, and why do they help prevent memory leaks?
+- [ ] 5. Explain **Tail Call Optimization** (TCO).
+- [ ] 6. How does the **Just-In-Time (JIT) Compiler** optimize JS at runtime?
