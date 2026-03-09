@@ -93,3 +93,37 @@ A comprehensive collection of JavaScript questions covering basics to advanced p
 - [ ] 4. What are **WeakMap** and **WeakSet**, and why do they help prevent memory leaks?
 - [ ] 5. Explain **Tail Call Optimization** (TCO).
 - [ ] 6. How does the **Just-In-Time (JIT) Compiler** optimize JS at runtime?
+
+## 🧩 Advanced Patterns & Functional Programming
+- [ ] 1. What are **Pure Functions** and why are they important in modern frameworks?
+- [ ] 2. Explain **Function Composition** and how to implement a `pipe` function.
+- [ ] 3. What is the difference between **Imperative** and **Declarative** programming?
+- [ ] 4. What is **Currying** and how is it different from **Partial Application**?
+- [ ] 5. What are **Generators** (`function*`) and where are they useful (e.g., Redux-Saga)?
+- [ ] 6. How do **Proxies** and **Reflect** work (The backbone of Vue 3 reactivity)?
+- [ ] 7. What are **Symbols** and how do you use them for private object properties?
+
+## 🌐 Modern Web & Workers
+- [ ] 1. What are **Web Workers** and when should you use them vs. Async code?
+- [ ] 2. What are **Service Workers** and how do they enable PWA offline capabilities?
+- [ ] 3. Explain **Tree Shaking** and how it reduces bundle size.
+- [ ] 4. What is the difference between **CJS (CommonJS)** and **ESM (ES Modules)**?
+- [ ] 5. How does **Cross-Site Scripting (XSS)** and **CSRF** work in JS, and how do you prevent them?
+
+## ⚡ Performance & Optimization
+- [ ] 1. What is the difference between **Reflow** and **Repaint**?
+- [ ] 2. How would you optimize a page rendering **10,000 DOM elements**?
+- [ ] 3. What is **Critical Rendering Path** optimization?
+- [ ] 4. Explain **Code Splitting** and **Dynamic Imports** (`import()`).
+
+---
+
+## 💻 Practical Coding Challenges (Must-Know)
+*Be prepared to code these from scratch on a whiteboard or shared editor.*
+
+- [ ] 1. **Implement a Custom Promise:** Show the internal states (Pending, Fulfilled, Rejected).
+- [ ] 2. **Polyfill for `Array.prototype.reduce`:** Demonstrates understanding of prototypes and accumulators.
+- [ ] 3. **Deep Clone Function:** Create a function that copies nested objects/arrays without using `JSON.stringify`.
+- [ ] 4. **Flatten an Array:** Write a recursive function to flatten `[1, [2, [3, 4]], 5]`.
+- [ ] 5. **Simple EventEmitter:** Create a class with `on`, `emit`, and `off` methods.
+- [ ] 6. **Task Scheduler:** Implement a class that limits the number of concurrent asynchronous tasks.
